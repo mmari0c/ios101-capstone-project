@@ -9,7 +9,7 @@ This app encourages mindfulness and reflection while showcasing strong SwiftUI f
 ## App Overview
 
 ### **Description**
-Daily Wins gives users a dedicated space to celebrate small positive moments—such as making their bed, going for a walk, or finishing an assignment. Each win is logged with a title, timestamp, optional notes, and optional image. Over time, users can review their wins, see summaries, and maintain streaks.
+Daily Wins gives users a dedicated space to celebrate small positive moments such as making their bed, going for a walk, or finishing an assignment. Each win is logged with a title, timestamp, optional notes, and optional image. Over time, users can review their wins, see summaries, and maintain streaks.
 
 ### **Evaluation**
 Daily Wins is:
