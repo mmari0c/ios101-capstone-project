@@ -128,7 +128,7 @@ Users log wins daily, often multiple times a day. Optional streaks and reminders
 
 # Wireframes
 
-Figma Wireframe(https://www.figma.com/make/Y5IrtsBkgeMqCjkXyFGO3M/Daily-Wins-iOS-Wireframe?node-id=0-4&t=d9GyR748JJycyBDD-1)
+[Figma Wireframe](https://www.figma.com/make/Y5IrtsBkgeMqCjkXyFGO3M/Daily-Wins-iOS-Wireframe?node-id=0-4&t=d9GyR748JJycyBDD-1)
 
 # Schema
 
