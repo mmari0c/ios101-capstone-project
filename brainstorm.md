@@ -1,4 +1,4 @@
-# Mobile App Dev – App Brainstorming
+# iOS101 – App Brainstorming
 
 ## Favorite Existing Apps – List
 1. Notion  
