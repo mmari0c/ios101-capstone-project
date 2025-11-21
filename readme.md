@@ -2,8 +2,6 @@
 
 Daily Wins is a simple, uplifting iOS app designed to help users acknowledge small accomplishments throughout their day. Users can log a “win,” add optional notes or photos, track their weekly progress, and build positive habits over time.
 
-This app encourages mindfulness and reflection while showcasing strong SwiftUI fundamentals, local persistence, and clean mobile design.
-
 ---
 
 ## App Overview
